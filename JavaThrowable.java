@@ -2,7 +2,7 @@ package throwablepractice;
 
 import java.util.ArrayList;
 
-public class JavaError {
+public class JavaThrowable {
     public static void main(String[] args) {
         practiceArithmeticException();
         practiceNullPointerException();
